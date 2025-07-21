@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail ASSIL</h1>
   <p align="center"> 🔭 I’m currently a student at 1337 Khouribga (42 Network).</p>
+  <p align="center">🌐 my portfolio: <a href="https://iassil.dev" target="_blank">iassil.dev</a></p>
 <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iassil" alt="iassil's 42 stats" /></a></p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
